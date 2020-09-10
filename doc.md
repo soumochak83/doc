@@ -8,7 +8,7 @@ Please see [known issues](#known-issues) below for currently issues with OpenShi
 
 Pachyderm needs a few things to install and run successfully in IBM Cloud OpenShift environment
 
-### Binaries for CLI
+##### Binaries for CLI
 
 - [oc](https://cloud.ibm.com/docs/openshift?topic=openshift-openshift-cli#cli_oc)
 - [pachctl](#install-pachctl)
